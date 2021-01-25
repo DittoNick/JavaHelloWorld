@@ -1,0 +1,11 @@
+# Maven, App compilation
+target/
+
+# Netbeans, Eclipse JDT, etc..
+.classpath
+.project
+.settings/
+bin/
+nb-configuration.xml
+nbactions.xml
+nbproject/
